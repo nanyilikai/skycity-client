@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/chessboard.unity
+  isLoaded: 1
+  isActive: 1
